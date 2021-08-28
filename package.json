@@ -4,7 +4,7 @@
   "description": "JSON Activity",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "test": "mocha"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
